@@ -35,7 +35,8 @@
 }
 
 .col-1 {
-  width: 100%
+  width: 100%;
+  align: auto;
 }
 
 .col-2 {
