@@ -46,4 +46,8 @@
   width: 32%;
 }
 
+[class^="col"] {
+  margin: 2%;
+}
+
 /* Positioning Classes */
