@@ -18,10 +18,42 @@
   line-height: 0;
 }
 
+body {
+  width: 65%;
+  margin: auto;
+}
+
 .clear {
   clear: both;
 }
 
+#social {
+  position: fixed;
+  right: 50px;
+  top: 105px;
+}
+
+#social a {
+  width: 20px;
+  height: 20px;
+  display: block;
+}
+
+.col-1 {
+  width: 100%;
+  align: auto;
+}
+
+.col-2 {
+  width: 64%;
+}
+
+.col-3 {
+  width: 32%;
+}
+
+[class^="col"] {
+  margin: 2%;
+}
+
 /* Positioning Classes */
-
-
