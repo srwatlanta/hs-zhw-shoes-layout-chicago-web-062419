@@ -22,11 +22,13 @@
   clear: both;
 }
 
-#social a {
+#social {
   position: fixed;
-  display: block;
   right: 20px;
   top: 105px;
+}
+
+#social a {
   width: 20px;
   height: 20px;
 }
