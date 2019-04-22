@@ -18,6 +18,11 @@
   line-height: 0;
 }
 
+body {
+  width: 65%;
+  align: auto;
+}
+
 .clear {
   clear: both;
 }
