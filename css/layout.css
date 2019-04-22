@@ -24,6 +24,7 @@
 
 #social a {
   position: fixed;
+  display: block;
   right: 20px;
   top: 105px;
   width: 20px;
